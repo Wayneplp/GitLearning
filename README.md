@@ -1,2 +1,2 @@
 # GitLearning
-Git练习
+用于Git练习
